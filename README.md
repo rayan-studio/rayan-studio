@@ -2,7 +2,7 @@
 
 Developer focused on web applications, software tools, and practical full-stack projects.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rayan-Walnut&label=Profile%20views&color=0f766e&style=flat)](https://github.com/Rayan-Walnut)
+[![GitHub](https://img.shields.io/badge/GitHub-Rayan--Walnut-111827?style=flat&logo=github&logoColor=white)](https://github.com/Rayan-Walnut)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan%20El%20Manssouri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-el-manssouri-1972143a1/)
 [![Email](https://img.shields.io/badge/Email-rayanelmanssouri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayanelmanssouri@gmail.com)
 
@@ -36,51 +36,29 @@ Je travaille principalement avec `React`, `C#`, `JavaScript`, `TypeScript` et `C
 - `ITSO Technologies SAS - Sorgues`
   Decouverte des bases de la programmation en `PHP`.
 
-## GitHub Stats
+## Summary Cards
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayan-Walnut&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Walnut&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-Walnut&theme=github_dark" alt="Profile summary details" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Rayan-Walnut&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Walnut&bg_color=00000000&color=0f766e&line=14b8a6&point=0ea5e9&area=true&hide_border=true" alt="Activity graph" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Walnut&theme=github_dark" alt="Summary stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Walnut&theme=github_dark" alt="Repos per language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Walnut&theme=github_dark" alt="Most commit language" />
 </div>
 
 ## Projets Mis En Avant
 
 Projets repris depuis mon portfolio et mes depots publics, avec un focus sur les outils, les interfaces et les applications personnelles.
 
-<div align="center">
-  <a href="https://github.com/Rayan-Walnut/Quantum">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=Quantum&theme=transparent&hide_border=true" alt="Quantum repo card" />
-  </a>
-  <a href="https://github.com/Rayan-Walnut/mercurev2">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=mercurev2&theme=transparent&hide_border=true" alt="mercurev2 repo card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Rayan-Walnut/Lumina">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=Lumina&theme=transparent&hide_border=true" alt="Lumina repo card" />
-  </a>
-  <a href="https://github.com/Rayan-Walnut/Pok-mon-TCG">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=Pok-mon-TCG&theme=transparent&hide_border=true" alt="Pokemon TCG repo card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Rayan-Walnut/services">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=services&theme=transparent&hide_border=true" alt="services repo card" />
-  </a>
-  <a href="https://github.com/Rayan-Walnut/Aborescence">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayan-Walnut&repo=Aborescence&theme=transparent&hide_border=true" alt="Aborescence repo card" />
-  </a>
-</div>
+- [Nebula](https://astracode.dev) - projet mis en avant sur `astracode.dev`, oriente outil de developpement et univers logiciel
+- [Quantum](https://github.com/Rayan-Walnut/Quantum) - navigateur web personnel et experimentation logicielle
+- [mercurev2](https://github.com/Rayan-Walnut/mercurev2) - projet de messagerie moderne en `TypeScript`
+- [Lumina](https://github.com/Rayan-Walnut/Lumina) - experimentation d'interface et de composants en `C++`
+- [Pok-mon-TCG](https://github.com/Rayan-Walnut/Pok-mon-TCG) - application `TypeScript` autour de l'univers Pokemon TCG
+- [services](https://github.com/Rayan-Walnut/services) - scripts `PowerShell` pour optimisation et automatisation
+- [Aborescence](https://github.com/Rayan-Walnut/Aborescence) - utilitaire de copie de structure de dossiers
 
 ## Focus Actuel
 
@@ -93,3 +71,4 @@ Projets repris depuis mon portfolio et mes depots publics, avec un focus sur les
 - LinkedIn: [rayan-el-manssouri-1972143a1](https://www.linkedin.com/in/rayan-el-manssouri-1972143a1/)
 - Email: `rayanelmanssouri@gmail.com`
 
+<!-- Metrics setup: add a repository secret named METRICS_TOKEN, then run the Metrics workflow once. -->
