@@ -1,4 +1,4 @@
-# Rayan El Manssouri
+# Rayan El Manssouri | Full-Stack Developer
 
 Developer focused on web applications, software tools, and practical full-stack projects.
 
