@@ -4,7 +4,7 @@ Developer focused on web applications, software tools, and practical full-stack 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rayan--Walnut-111827?style=flat&logo=github&logoColor=white)](https://github.com/Rayan-Walnut)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan%20El%20Manssouri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-el-manssouri-1972143a1/)
-[![Email](https://img.shields.io/badge/Email-rayanelmanssouri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayanelmanssouri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rayanelmanssouri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prorayanelmanssouri@gmail.com)
 
 </div>
 
