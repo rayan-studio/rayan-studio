@@ -5,7 +5,7 @@
 
 Développeur focalisé sur les applications web, les outils logiciels et les projets full-stack concrets.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rayan--Walnut-111827?style=flat&logo=github&logoColor=white)](https://github.com/Rayan-Walnut)
+[![GitHub](https://img.shields.io/badge/GitHub-rayan--studio-111827?style=flat&logo=github&logoColor=white)](https://github.com/rayan-studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan%20El%20Manssouri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-el-manssouri-1972143a1/)
 [![Email](https://img.shields.io/badge/Email-rayanelmanssouri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayanelmanssouri@gmail.com)
 
@@ -50,8 +50,8 @@ Je travaille principalement avec React, C#, JavaScript, TypeScript et C++, avec 
 ## Statistiques GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rayan-Walnut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Walnut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rayan-studio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayan-studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </div>
 
 ---
@@ -61,12 +61,12 @@ Je travaille principalement avec React, C#, JavaScript, TypeScript et C++, avec 
 | Projet | Description |
 |---|---|
 | [Nebula](https://astracode.dev) | Projet mis en avant sur astracode.dev, oriente outil de developpement et univers logiciel |
-| [Quantum](https://github.com/Rayan-Walnut/Quantum) | Navigateur web personnel et experimentation logicielle |
-| [mercurev2](https://github.com/Rayan-Walnut/mercurev2) | Projet de messagerie moderne en TypeScript |
-| [Lumina](https://github.com/Rayan-Walnut/Lumina) | Experimentation d'interface et de composants en C++ |
-| [Pokemon TCG](https://github.com/Rayan-Walnut/Pok-mon-TCG) | Application TypeScript autour de l'univers Pokemon TCG |
-| [services](https://github.com/Rayan-Walnut/services) | Scripts PowerShell pour optimisation et automatisation |
-| [Aborescence](https://github.com/Rayan-Walnut/Aborescence) | Utilitaire de copie de structure de dossiers |
+| [Quantum](https://github.com/rayan-studio/Quantum) | Navigateur web personnel et experimentation logicielle |
+| [mercurev2](https://github.com/rayan-studio/mercurev2) | Projet de messagerie moderne en TypeScript |
+| [Lumina](https://github.com/rayan-studio/Lumina) | Experimentation d'interface et de composants en C++ |
+| [Pokemon TCG](https://github.com/rayan-studio/Pok-mon-TCG) | Application TypeScript autour de l'univers Pokemon TCG |
+| [services](https://github.com/rayan-studio/services) | Scripts PowerShell pour optimisation et automatisation |
+| [Aborescence](https://github.com/rayan-studio/Aborescence) | Utilitaire de copie de structure de dossiers |
 
 ---
 
@@ -82,7 +82,7 @@ Je travaille principalement avec React, C#, JavaScript, TypeScript et C++, avec 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rayan--Walnut-111827?style=flat&logo=github&logoColor=white)](https://github.com/Rayan-Walnut)
+[![GitHub](https://img.shields.io/badge/GitHub-rayan--studio-111827?style=flat&logo=github&logoColor=white)](https://github.com/rayan-studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan%20El%20Manssouri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-el-manssouri-1972143a1/)
 [![Email](https://img.shields.io/badge/Email-rayanelmanssouri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayanelmanssouri@gmail.com)
 
